@@ -1,0 +1,7 @@
+"0","# Joining DF"
+"0","# Make into spatial object again"
+"0","colnames(municipalities@data)[7] <- ""Kommune"""
+"0",""
+"0","municipalities <- subset(municipalities, Kommune != ""Christiansø"")"
+"0",""
+"0","municipalities@data <- join(municipalities@data, indbygger_data, by = ""Kommune"")"

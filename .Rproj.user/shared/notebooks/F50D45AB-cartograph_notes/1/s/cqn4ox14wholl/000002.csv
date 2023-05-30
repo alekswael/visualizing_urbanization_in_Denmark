@@ -1,0 +1,4 @@
+"0","indbygger_data = read.csv2(""data/indbygger_data.csv"", header = T)"
+"0","indbygger_data <- na.omit(indbygger_data)"
+"0",""
+"0","areal_data = read.csv2(""data/areal_data.csv"", header = T)"

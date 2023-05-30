@@ -1,0 +1,22 @@
+---
+title: "noter_data"
+author: "Aleksander Wael"
+date: "4/24/2023"
+output: html_document
+---
+
+Tegnforklaring:
+-  Et 'rent' nul (afrundede nuller vises som 0 eller 0,0 osv.)
+U  Det pågældende nøgletal er udefineret for året.
+
+Noter:
+(3)  Tal før kommunalreformen 2007 (vist med kursiv) er her skønnede tal, da der indgår delte kommuner i den sammenlagte kommune (delte kommuner er medregnet i det skønnede tal i forhold til den andel af indbyggerne i kommunen, der er overgået til den nye sammenlagte kommune.
+(15)  I tal før kommunalreformen 2007 (vist med kursiv) indgår skønnede tal, da gennemsnittet omfatter en eller flere sammenlagte kommuner, hvori der indgår delte kommuner (delte kommuner er medregnet i det skønnede tal i forhold til den andel af indbyggerne i kommunen, der er overgået til den nye sammenlagte kommune.
+(18)  Tal før kommunalreformen 2007 (vist med kursiv) er her skønnede tal, da der indgår delte kommuner i den sammenlagte kommune (delte kommuner er medregnet i det skønnede tal i forhold til den andel af kommunens areal, der er overgået til den nye sammenlagte kommune.
+(21)  I tal før kommunalreformen 2007 (vist med kursiv) indgår skønnede tal, da summen af de valgte kommuner omfatter en eller flere sammenlagte kommuner, hvori der indgår delte kommuner (delte kommuner er medregnet i det skønnede tal i forhold til den andel af kommunens areal, der er overgået til den nye sammenlagte kommune.
+Valgte kommuner:
+
+I rapporten indgår de 98 kommuner fra gruppen 'Marker alle kommuner'.
+
+Indenrigs- og Sundhedsministeriet d. 24. april 2023
+

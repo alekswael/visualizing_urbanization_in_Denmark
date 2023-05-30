@@ -1,0 +1,4 @@
+"0","mun_sf <- st_as_sf(municipalities)"
+"0","mun_sf <- st_transform(mun_sf, crs = 25832)"
+"0",""
+"0","municipalities_projected <- as_Spatial(mun_sf)"

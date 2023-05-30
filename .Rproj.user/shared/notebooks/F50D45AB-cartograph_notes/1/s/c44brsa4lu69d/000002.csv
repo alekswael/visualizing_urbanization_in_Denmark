@@ -1,0 +1,6 @@
+"0","# Make dt a sf object
+dt <- st_as_sf(dt)
+"
+"2","Error in st_sf(x, ..., agr = agr, sf_column_name = sf_column_name) : 
+  no simple features geometry column present
+"

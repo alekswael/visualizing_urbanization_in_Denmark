@@ -1,0 +1,8 @@
+"0","municipalities <- getData(""GADM"", country = ""DK"", level = 2)
+"
+"2","Warning in getData(""GADM"", country = ""DK"", level = 2) :"
+"2","
+ "
+"2"," getData will be removed in a future version of raster
+. Please use the geodata package instead
+"

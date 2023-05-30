@@ -1,0 +1,8 @@
+"0","# Centers for kommune labels"
+"0","# Calculate the position of state labels"
+"0","centers <- cbind.data.frame(data.frame(gCentroid(municipalities_projected, byid=TRUE), id=municipalities_projected$Kommune))"
+"0","centers_cartogram <- cbind.data.frame(data.frame(gCentroid(dk_cartogram_spdf, byid=TRUE), id=dk_cartogram_spdf$Kommune))"
+"0",""
+"0","# Add indbygger data to centers"
+"0","centers_cartogram <- centers_cartogram %>% "
+"0","  left_join(mun_df, by=""id"")"

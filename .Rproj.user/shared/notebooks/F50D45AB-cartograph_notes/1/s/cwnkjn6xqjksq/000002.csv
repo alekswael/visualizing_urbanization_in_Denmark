@@ -1,0 +1,10 @@
+"0","mun_df <- tidy(municipalities_projected, region = ""Kommune"") %>% "
+"0","  left_join(., municipalities_projected@data, by=c(""id""=""Kommune""))"
+"0",""
+"0","cartogram_df <- tidy(dk_cartogram_spdf, region = ""Kommune"") %>% "
+"0","  left_join(., municipalities_projected@data, by=c(""id""=""Kommune""))"
+"0",""
+"0","afr_df <- tidy(afr) %>% "
+"0","  left_join(., afr@data, by=c(""id""=""ISO3""))"
+"2","Regions defined for each Polygons
+"

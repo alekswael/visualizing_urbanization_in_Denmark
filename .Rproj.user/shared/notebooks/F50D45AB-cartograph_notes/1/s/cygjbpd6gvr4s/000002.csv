@@ -1,0 +1,22 @@
+"0","dk_cartogram <- cartogram_cont(mun_sf, ""X1993"", iter = 10)"
+"2","Mean size error for iteration 1: 4.16616904566112
+"
+"2","Mean size error for iteration 2: 2.56294402786614
+"
+"2","Mean size error for iteration 3: 2.58999745380927
+"
+"2","Mean size error for iteration 4: 1.9578217426961
+"
+"2","Mean size error for iteration 5: 1.6408837478768
+"
+"2","Mean size error for iteration 6: 1.4677624094884
+"
+"2","Mean size error for iteration 7: 1.36723565398672
+"
+"2","Mean size error for iteration 8: 1.29985244806936
+"
+"2","Mean size error for iteration 9: 1.2570907173465
+"
+"2","Mean size error for iteration 10: 1.22716779861758
+"
+"0","dk_cartogram_spdf <- as_Spatial(dk_cartogram)"
