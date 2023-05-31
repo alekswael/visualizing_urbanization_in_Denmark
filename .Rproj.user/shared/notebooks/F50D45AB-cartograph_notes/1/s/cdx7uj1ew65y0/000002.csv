@@ -1,2 +1,0 @@
-"0","# png_files <- list.files(""."", pattern = "".*png$"", full.names = TRUE)"
-"0","# gifski(png_files, gif_file = ""animation.gif"", width = 2100, height = 2100, delay = 0.1)"

@@ -1,8 +1,0 @@
-"0","dk_cartogram <- cartogram(municipalities, ""X1993"", itermax = 7)"
-"2","
-Please use cartogram_cont() instead of cartogram().
-
-"
-"2","Error: Using an unprojected map. This function does not give correct centroids and distances for longitude/latitude data:
-Use ""st_transform()"" to transform coordinates to another projection.
-"

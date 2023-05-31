@@ -1,2 +1,0 @@
-"0","municipalities@data[,15:45] <- municipalities@data[,15:45] %>% "
-"0","  mutate_all(as.numeric)"

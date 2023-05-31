@@ -1,6 +1,0 @@
-"0","# Get the shape file of Africa"
-"0","data(wrld_simpl)"
-"0","afr=wrld_simpl[wrld_simpl$REGION==2,]"
-"0",""
-"0","# A basic representation"
-"0","wrld_simpl@data"
